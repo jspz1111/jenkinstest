@@ -30,7 +30,7 @@ android {
             storeFile file("keystore/debug.jks")
             storePassword "111111"
             keyAlias "debug"
-            keyPassword "111111"
+            keyPassword "123456"
         }
 
     }
